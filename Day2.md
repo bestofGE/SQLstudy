@@ -36,4 +36,3 @@ https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads
 
 - 이러한 순서로 매출데이터, 고객데이터, 채널데이터를 불러와준다.
 - (*고객데이터는 엑셀 형태라 데이터원본에서 excel눌러주기 > 시트가 여러개일 경우 어떤걸 고를지 경로 추가됨!
-- 
